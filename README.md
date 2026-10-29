@@ -2,7 +2,7 @@
 
 # DeepSeek V4.1 Flash 1017 — Orca Mix-256G Abliterated on Maya
 
-**[Deploy on Runpod](https://console.runpod.io/hub/template/jac6t7pq8l)**
+[![Deploy on Runpod](https://img.shields.io/badge/Deploy_on_Runpod-673AB7?style=for-the-badge)](https://console.runpod.io/hub/template/jac6t7pq8l)
 
 Run **OrcaRouter's abliterated DeepSeek-V4.1-Flash-1017 GGUF** with the
 **Project Maya** inference engine on **2× RTX PRO 6000 Blackwell 96 GB**.
