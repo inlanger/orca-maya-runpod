@@ -107,3 +107,5 @@ The recipe uses temporary storage, with no persistent disk required.
 
 This is a community deployment recipe. Model weights are downloaded from their
 publishers at startup; their respective access conditions and licenses apply.
+
+[![Deploy on Runpod](https://img.shields.io/badge/Deploy_on_Runpod-673AB7?style=for-the-badge)](https://console.runpod.io/hub/template/jac6t7pq8l)
